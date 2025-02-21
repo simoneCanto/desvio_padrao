@@ -1,0 +1,2 @@
+# desvio_padrao
+Estatística
